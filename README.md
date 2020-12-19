@@ -1,9 +1,10 @@
 # VS-Code
-## font
+## Font
 - Anonymous Pro
-- JetBrains Mono
+- **JetBrains Mono**
 
 ## Themes
-- Momokai Pro
+- **Momokai Pro**
 - Rainglow
 - Dark Lemon
+- (Spacegray)
