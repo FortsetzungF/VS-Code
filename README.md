@@ -4,7 +4,7 @@
 - **JetBrains Mono**
 
 ## Themes
-- **Momokai Pro**
+- **Monokai Pro**
 - Rainglow
 - Dark Lemon
 - (Spacegray)
